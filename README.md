@@ -4,11 +4,12 @@
 <p align="center">
   <a href="https://github.com/shahedahmedutsho"><img src="https://readme-typing-svg.herokuapp.com/?lines=Front%20End%20and;MERN%20Stack%20Developer;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
- 
-
 <a href="https://komarev.com/ghpvc/?username=shahedahmedutsho">
   <img align="right" src="https://komarev.com/ghpvc/?username=shahedahmedutsho&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
+
+[![Projects? 12+](https://img.shields.io/badge/Projects-12%2B-blue?style=flat)](https://github.com/shahedahmedutsho)
+
 
 
 
