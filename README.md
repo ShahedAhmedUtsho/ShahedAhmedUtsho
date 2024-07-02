@@ -1,17 +1,13 @@
-
-
-
 <p align="center">
-  <a href="https://github.com/shahedahmedutsho"><img src="https://readme-typing-svg.herokuapp.com/?lines=Front%20End%20Devaloper;MERN%20Stack%20enthusiast;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/shahedahmedutsho">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Front%20End%20Developer;MERN%20Stack%20Enthusiast;Always%20Learning%20New%20Things&center=true&width=380&height=45&color=4B88F6">
+  </a>
 </p>
 <a href="https://komarev.com/ghpvc/?username=shahedahmedutsho">
-  <img align="right" src="https://komarev.com/ghpvc/?username=shahedahmedutsho&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+  <img align="right" src="https://komarev.com/ghpvc/?username=shahedahmedutsho&label=Visitors&color=4B88F6&style=flat" alt="Profile visitor" />
 </a>
 
-[![Projects? 12+](https://img.shields.io/badge/Projects-12%2B-blue?style=flat)](https://github.com/shahedahmedutsho)
-
-
-
+[![Projects? 12+](https://img.shields.io/badge/Projects-12%2B-4B88F6?style=flat)](https://github.com/shahedahmedutsho)
 
 <!-- Intro  -->
 <h3 align="center">
@@ -32,28 +28,28 @@
 
 <p align="center">
  <a href="https://linkedin.com/in/shahedahmedutsho" target="blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="shahedahmedutsho"/>
+  <img src="https://img.shields.io/badge/LinkedIn-4B88F6?style=for-the-badge&logo=linkedin&logoColor=white" alt="shahedahmedutsho"/>
  </a>
  <a href="https://twitter.com/iam_shahedahmed" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Twitter-4B88F6?style=for-the-badge&logo=twitter&logoColor=white" />
  </a>
 <!-- <a href="https://instagram.com/iamshahedahmed" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="shahedahmed" />
+  <img src="https://img.shields.io/badge/Instagram-4B88F6?style=for-the-badge&logo=instagram&logoColor=white" alt="shahedahmed" />
  </a> -->
  <a href="https://facebook.com/iamshahedahmed" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="shahedahmed"  />
+  <img src="https://img.shields.io/badge/Facebook-4B88F6?&style=for-the-badge&logo=facebook&logoColor=white" alt="shahedahmed"  />
   </a> 
 </p>
 <br />
 <p align="center">
   <a href="https://github.com/shahedahmedutsho">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahedahmedutsho&theme=radical&border=7F3FBF&background=0D1117" alt="Shahed Ahmed's GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahedahmedutsho&theme=react&border=4B88F6&background=0D1117" alt="Shahed Ahmed's GitHub streak"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/shahedahmedutsho">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shahedahmedutsho&theme=radical" alt="Shahed Ahmed's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shahedahmedutsho&theme=github_dark&border=4B88F6" alt="Shahed Ahmed's GitHub Contribution"/>
   </a>
 </p>
 
@@ -87,27 +83,29 @@
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
 <!-- ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) -->
 <!-- ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white) -->
-![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![VSCode](https://img.shields.io/badge/Visual_Studio-4B88F6?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 <br/>
 
-
-
 <p align="left">
-  <a href="https://github.com/shahedahmedutsho?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+  <a href="https://github.com/shahedahmedutsho?tab=repositories" target="_blank">
+    <img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-4B88F6?style=for-the-badge&logo=koding&logoColor=white"/>
+  </a>
 </p>
 
 <br/>
 <hr/>
 <br/>
 
-
 <a> 
-  <a href="https://github.com/shahedahmedutsho"><img alt="Shahed Ahmed's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=shahedahmedutsho&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/shahedahmedutsho"><img alt="Shahed Ahmed's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=shahedahmedutsho&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/shahedahmedutsho">
+    <img alt="Shahed Ahmed's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=shahedahmedutsho&show_icons=true&count_private=true&theme=react&border_color=4B88F6&bg_color=0D1117&title_color=4B88F6&icon_color=4B88F6" height="192px" width="49.5%"/>
+  </a>
+  <a href="https://github.com/shahedahmedutsho">
+    <img alt="Shahed Ahmed's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=shahedahmedutsho&langs_count=8&layout=compact&theme=react&border_color=4B88F6&bg_color=0D1117&title_color=4B88F6&icon_color=4B88F6" height="192px" width="49.5%"/>
+  </a>
   <br/>
 </a>
 
-![Shahed Ahmed's Graph](https://github-readme-activity-graph.vercel.app/graph?username=shahedahmedutsho&custom_title=Shahed%20Ahmed's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
-
+![Shahed Ahmed's Graph](https://github-readme-activity-graph.vercel.app/graph?username=shahedahmedutsho&custom_title=Shahed%20Ahmed's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=4B88F6&line=4B88F6&point=4B88F6&area_color=4B88F6&title_color=4B88F6&area=true)
