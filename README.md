@@ -1,20 +1,22 @@
 <h1 align="center">Hi 👋, I'm Shahed Ahmed</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-<img align="center" src="https://via.placeholder.com/1200x300.png?text=Shahed+Ahmed" alt="banner" />
+<p align="center">
+  <img src="https://i.ibb.co/qjc82YJ/3c9233c7344e62959bc337d088ce246c.jpg" height="200" width="300" alt="banner" />
+</p>
 
 ### About Me
 I am a **MERN stack developer** specializing in **front-end development**. With a strong focus on creating **responsive websites**, I excel in **React.js** and **Tailwind CSS** to build visually appealing and user-friendly interfaces. I also have experience with **MongoDB**, **Node.js**, and **Express.js** to create seamless and efficient back-end solutions.
 
 ### Connect with Me
-<p align="left">
+<p align="center">
   <a href="https://twitter.com/iam_shahedahmed" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iam_shahedahmed" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/shahedahmedutsho" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shahedahmedutsho" height="30" width="40" /></a>
   <a href="https://fb.com/iamshahedahmed" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="iamshahedahmed" height="30" width="40" /></a>
 </p>
 
 ### Languages and Tools
-<p align="left">
+<p align="center">
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
@@ -36,12 +38,5 @@ I am a **MERN stack developer** specializing in **front-end development**. With 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahedahmedutsho&" alt="shahedahmedutsho" />
 </p>
 
-### Hi there 👋
-
-- 🔭 I’m currently studying the IT industry...
-- 🌱 I’m currently learning complete website development...
-- 💬 Ask me anything about my work...
-- 📫 How to reach me?
-  - **Phone:** [+8801581429924]
+### 📫 How to reach me?
   - **Email:** [shahedahmedutsho@gmail.com]
-- ⚡ Fun fact: Let's be professional friends and share each other's work...
