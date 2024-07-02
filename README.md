@@ -1,8 +1,4 @@
 
-<h2 align="center">
-  Welcome to Shahed Ahmed's World!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h2>
 
 
 <p align="center">
@@ -25,7 +21,7 @@
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=Shahed+Ahmed">「 Google Me 」</a>
+  <!--  <a href="https://www.google.com/search?q=Shahed+Ahmed">「 Google Me 」</a> -->
     <br>
     「 I am a MERN stack developer from <b>Bangladesh</b> 」
     <br>
@@ -55,10 +51,10 @@
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
- ✌️ &emsp; Enjoy programming and sharing knowledge <br/><br/>
+ ✌️ &emsp; Enjoy programming  <br/><br/>
  ❤️ &emsp; Love writing code and learning new features<br/><br/>
  📧 &emsp; Reach me anytime: shahedahmedutsho@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/shahedahmedutsho/shahedahmedutsho/issues)
+
 
 </p>
 
