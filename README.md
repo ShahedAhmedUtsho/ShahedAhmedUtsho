@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/shahedahmedutsho"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;MERN%20Stack%20Developer;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/shahedahmedutsho"><img src="https://readme-typing-svg.herokuapp.com/?lines=Front%20End%20and;MERN%20Stack%20Developer;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
  
 
@@ -40,9 +40,9 @@
  <a href="https://twitter.com/iam_shahedahmed" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
  </a>
- <a href="https://instagram.com/iamshahedahmed" target="_blank">
+<!-- <a href="https://instagram.com/iamshahedahmed" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="shahedahmed" />
- </a> 
+ </a> -->
  <a href="https://facebook.com/iamshahedahmed" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="shahedahmed"  />
   </a> 
@@ -51,7 +51,7 @@
 
 <!-- About Section -->
  # About me
- 
+ I am a **MERN stack developer** specializing in **front-end development**. With a strong focus on creating **responsive websites**, I excel in **React.js** and **Tailwind CSS** to build visually appealing and user-friendly interfaces. I also have experience with **MongoDB**, **Node.js**, and **Express.js** to create seamless and efficient back-end solutions.
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
@@ -85,11 +85,7 @@
 
 <br/>
 
-## Top Open Source Projects
-[![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=shahedahmedutsho&repo=itasks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/shahedahmedutsho/itasks)
-[![urFolio](https://github-readme-stats.vercel.app/api/pin/?username=shahedahmedutsho&repo=urfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/shahedahmedutsho/urfolio)
-[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=shahedahmedutsho&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/shahedahmedutsho/web-projects)
-[![Shahed Ahmed Readme](https://github-readme-stats.vercel.app/api/pin/?username=shahedahmedutsho&repo=shahedahmedutsho&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/shahedahmedutsho/shahedahmedutsho)
+
 
 <p align="left">
   <a href="https://github.com/shahedahmedutsho?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
@@ -119,4 +115,3 @@
 
 ![Shahed Ahmed's Graph](https://github-readme-activity-graph.vercel.app/graph?username=shahedahmedutsho&custom_title=Shahed%20Ahmed's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
-Please write in English language.
