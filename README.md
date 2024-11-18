@@ -7,7 +7,7 @@
   <img align="right" src="https://komarev.com/ghpvc/?username=shahedahmedutsho&label=Visitors&color=4B88F6&style=flat" alt="Profile visitor" />
 </a>
 
-[![Projects? 15+](https://img.shields.io/badge/Projects-12%2B-4B88F6?style=flat)](https://github.com/shahedahmedutsho)
+[![Projects? 15+](https://img.shields.io/badge/Projects-15%2B-4B88F6?style=flat)](https://github.com/shahedahmedutsho)
 
 <!-- Intro  -->
 <h3 align="center">
